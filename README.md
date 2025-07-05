@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PaoloAsto founder of Puenta (formerly KometPay) (SCF14 - SCF18)
-- 👀 I’m interested in Mathematics, Fintech, AI, Aereospace. 
-- 🌱 I’m currently using R, Python, Stata
-- 💞️ Taking a break from work and doing a Master in Mathematical Modeling at Sorbonne University - Paris 1
+- 👀 I’m interested in Mathematics, Fintech, AI, Aereospace and technology in general. 
+- 🌱 I’m currently using R, Python, Stata; I want to learn C. 
+- 💞️ Doing a Master in Applied Mathematics at Sorbonne University - Paris 1
 - 📫 How to reach me: on X/Twitter @AstoneP; LinkedIn: Paolo Astone 
 
 <!---
