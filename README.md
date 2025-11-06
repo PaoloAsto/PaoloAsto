@@ -1,8 +1,8 @@
 - Hi, I’m @PaoloAsto, founder of B2C fintech startup Puenta (formerly KometPay) (Winner of SCF14 - SCF18). Previously I wrote for the FT (fDi) in London about Foreign Direct Investment.
   
-- I’m interested in Pure and Applied Mathematics, Statistical Physiscs, Fintech, AI, Aereospace and technology in general.
+- I’m interested in Mathematics, Statistical Physiscs, Neuroscience, Quantitative FInance, AI.
   
-- I am currently working on Stochastic Spiking Neural Nets and Sotchastic Modelling in Quant Finance
+- I am currently working on Stochastic Spiking Neural Nets and Stochastic Modelling in Quant Finance
   
 - Using R, Python, Stata; I want to learn C.
   
