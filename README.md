@@ -1,10 +1,6 @@
-- Hi, I’m @PaoloAsto, founder of B2C fintech startup Puenta (formerly KometPay) (Winner of SCF14 - SCF18). Previously I wrote for the FT (fDi) in London about Foreign Direct Investment.
+- Hi, I’m @PaoloAsto, I am a Quant at Zeliade Systems in Paris. Previously I founded B2C fintech startup Puenta (formerly KometPay) (Winner of SCF14 - SCF18).
   
-- I’m interested in Mathematics, Statistical Physiscs, Neuroscience, Quantitative FInance, AI.
-  
-- I am currently working on Stochastic Spiking Neural Nets and Stochastic Modelling in Quant Finance
-  
-- Using R, Python, Stata; I want to learn C.
+- I’m interested in Mathematics, Statistical Physiscs, Neuroscience, Quantitative FInance, AI. Academically, I am currently working on Stochastic Spiking Neural Nets and Stochastic Modelling in Quant Finance
   
 - My academic background:
     - M2-IRFA (Financial Engineering track) @Sorbonne Paris-1 Pantheon - Department of Mathematics and Computer Science
